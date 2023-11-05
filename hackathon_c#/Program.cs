@@ -62,11 +62,6 @@ public class Program
             }
         }
 
-        if (input is string && random.Next(4) == 0)
-        {
-            output = Generator(output);
-        }
-
         return output;
     }
 
