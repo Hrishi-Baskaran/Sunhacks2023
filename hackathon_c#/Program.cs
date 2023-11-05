@@ -7,9 +7,9 @@ public class Program
     static Random random = new Random();
     public static void Main(string[] args)
     {
+        License.iConfirmCommercialUse("Hrishikesan Thevar");
         /*
         THIS IS FOR TESTING IT'S OKAY TO DELETE THIS
-        License.iConfirmCommercialUse("tkherti");
         Token output = Generator("x");
         Console.WriteLine(output);
         string input = Console.ReadLine();
@@ -47,14 +47,11 @@ public class Program
         }
         else
         {
-            int functionTypeSeed = random.Next(3);
+            int functionTypeSeed = random.Next(2);
             switch (functionTypeSeed)
             {
                 case 0:
                     output = new FunctionToken(input, coefficient, "sin");
-                    break;
-                case 1:
-                    output = new FunctionToken(input, coefficient, "cos");
                     break;
                 default:
                     output = new FunctionToken(input, coefficient, "ln");
