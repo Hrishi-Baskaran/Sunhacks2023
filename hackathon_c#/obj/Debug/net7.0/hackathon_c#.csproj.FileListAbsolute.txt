@@ -1,0 +1,17 @@
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\hackathon_c#.exe
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\hackathon_c#.deps.json
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\hackathon_c#.runtimeconfig.json
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\hackathon_c#.dll
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\hackathon_c#.pdb
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.AssemblyInfoInputs.cache
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.AssemblyInfo.cs
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.csproj.CoreCompileInputs.cache
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.dll
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\refint\hackathon_c#.dll
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.pdb
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.genruntimeconfig.cache
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\ref\hackathon_c#.dll
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.csproj.AssemblyReference.cache
+C:\Users\hrish\Desktop\hackathon_c#\bin\Debug\net7.0\MathParser.org-mXparser.dll
+C:\Users\hrish\Desktop\hackathon_c#\obj\Debug\net7.0\hackathon_c#.csproj.CopyComplete
